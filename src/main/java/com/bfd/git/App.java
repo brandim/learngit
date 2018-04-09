@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello git!" ); 
         System.out.println("hahaha");
+        System.out.println("");
     }
     
     public void dev() {
