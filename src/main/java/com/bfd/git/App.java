@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello git!" ); 
-        System.out.println("haha");
+        System.out.println("hahaha");
     }
     
     public void dev() {
